@@ -1,0 +1,15 @@
+{
+  "item.element_t.element_t": "T Elementi",
+  "block.element_t.t_ore": "T Cevheri",
+  "block.element_t.t_ore_block": "T Bloğu",
+  "itemGroup.element_t_tab": "T Elementi Sekmesi",
+  "item.element_t.t_sword": "T Kılıcı",
+  "item.element_t.t_pickaxe": "T Kazması",
+  "item.element_t.t_axe": "T Baltası",
+  "item.element_t.t_shovel": "T Küreği",
+  "item.element_t.t_hoe": "T Çapası",
+  "item.element_t.t_helmet": "T Kask",
+  "item.element_t.t_chestplate": "T Göğüslük",
+  "item.element_t.t_leggings": "T Pantolon",
+  "item.element_t.t_boots": "T Botlar"
+}

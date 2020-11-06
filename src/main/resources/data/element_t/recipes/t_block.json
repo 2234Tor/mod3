@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "element_t:t_ore_block"
+    }
+  ],
+  "result":
+  {
+    "item": "element_t:element_t",
+    "count": 9
+  }
+}

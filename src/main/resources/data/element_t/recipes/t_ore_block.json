@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "xxx",
+    "xxx"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "element_t:element_t"
+    }
+  },
+  "result":
+  {
+    "item": "element_t:t_ore_block",
+    "count": 1
+  }
+}

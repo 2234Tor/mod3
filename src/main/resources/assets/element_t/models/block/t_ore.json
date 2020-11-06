@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "element_t:blocks/t_ore"
+  }
+}
