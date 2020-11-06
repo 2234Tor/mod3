@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "element_t:block/t_ore_block" }
+  }
+}
